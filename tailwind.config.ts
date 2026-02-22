@@ -28,6 +28,13 @@ export default {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
 				},
+				chiffzz: {
+					purple: '#5046E5',
+					teal: '#06B6D4',
+					slate: '#1E293B',
+					light: '#F8FAFC',
+					dark: '#0F172A'
+				},
 				secondary: {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
